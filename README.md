@@ -14,4 +14,4 @@ As you can see, the design is really look-a-like to some applications like TikTo
 
 We designed this application in adequation to UX principles we learned in cognitive ergnomics course last semester.
 
-You can visualize this application design we made with Figma here (the whole application is still is French for the moment) : 
+You can visualize this application design we made with Figma here (the whole application is still is French for the moment) : https://www.figma.com/file/PCmsHWQnz4ZGiXW0KSAWdS/Pet's-groove?node-id=0%3A1
